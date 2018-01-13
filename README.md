@@ -1,12 +1,8 @@
 # Das Git-Arbeitsdreieck
 
-1. forke upstream
-1. clone origin (=fork)
-1. tuwat lokal
-1. `git push`
-1. erstelle pull/merge request
+## forke upstream, clone origin (=fork), tuwat lokal, pushe origin, erstelle pull/merge request
 
-## Benutzung nach Download: 
+## Benutzung nach Download
 1. … hinter ME= mit eigenem Nutzernamen beim Git-Hoster ersetzen
 1. `git config alias.ad = !bash /path/to/git-Arbeitsdreieck.sh`
 1. `git ad https://githoster.tld/upstream/repo.git`
