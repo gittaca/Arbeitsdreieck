@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Das Git-Arbeitsdreieck: forken von upstream, clonen von origin (=fork), lokal schnell was ändern, pushe origin, erstelle pull/merge request
+# Das Git-Arbeitsdreieck: forke upstream, clone origin (=fork), tuwat lokal, pushe origin, erstelle pull/merge request
 # 
 # Benutzung nach Download: 
 # 1. … hinter ME= mit eigenem Nutzernamen beim Git-Hoster ersetzen
